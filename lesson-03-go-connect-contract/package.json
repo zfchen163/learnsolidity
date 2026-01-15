@@ -1,0 +1,15 @@
+{
+  "name": "lesson-03-go-connect-contract",
+  "version": "1.0.0",
+  "description": "第3课：用 Go 连接智能合约",
+  "scripts": {
+    "deploy": "hardhat run deploy.js --network localhost"
+  },
+  "keywords": ["solidity", "golang", "smart-contract", "ethereum", "web3"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}

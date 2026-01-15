@@ -1,0 +1,13 @@
+{
+  "name": "lesson-15-layer2",
+  "version": "1.0.0",
+  "description": "Layer 2 Deployment Demo",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.0"
+  }
+}

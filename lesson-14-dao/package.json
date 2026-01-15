@@ -1,0 +1,15 @@
+{
+  "name": "lesson-14-dao",
+  "version": "1.0.0",
+  "description": "DAO Governance Demonstration",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}

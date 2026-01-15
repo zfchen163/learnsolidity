@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Hardhat
+cache/
+artifacts/
+typechain-types/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 合约编译产物
+*.abi
+*.bin
+contract_address.txt
+
+# 生成的 Go 绑定
+contracts/*.go
+
+# 日志
+*.log

@@ -1,0 +1,15 @@
+{
+  "name": "lesson-12-oracle",
+  "version": "1.0.0",
+  "description": "Chainlink Oracle Demonstration",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "lesson-13-flashloan",
+  "version": "1.0.0",
+  "description": "Flashloan Demonstration",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.19.2",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
