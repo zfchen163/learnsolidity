@@ -1,0 +1,15 @@
+{
+  "name": "lesson-09-advanced-defi",
+  "version": "1.0.0",
+  "description": "DeFi Staking",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}

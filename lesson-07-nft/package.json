@@ -1,0 +1,12 @@
+{
+  "name": "lesson-07-nft",
+  "version": "1.0.0",
+  "description": "Simple NFT",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}

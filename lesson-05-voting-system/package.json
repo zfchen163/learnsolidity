@@ -1,0 +1,12 @@
+{
+  "name": "lesson-05-voting-system",
+  "version": "1.0.0",
+  "description": "Simple Voting System",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
